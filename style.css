@@ -1,6 +1,6 @@
 html, body {
-	background-color: black;
-	color: white;
+	background-color: #fff839;
+	color: black;
 	font-family: helvetica, arial, sans-serif;
 	font-size: 14px;
 	line-height: 1.5;
@@ -15,7 +15,7 @@ html, body {
 }
 
 section {
-	background-color: #171717;
+	background-color: #fff8e9;
 }
 
 h1, h2 {
